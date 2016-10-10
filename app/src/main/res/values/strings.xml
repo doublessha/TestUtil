@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestUtil</string>
+    <string name="btn_test">测试按钮</string>
+</resources>
